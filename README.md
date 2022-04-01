@@ -5,7 +5,7 @@
 
 ## Generation - Brasil
 
-A Generation-Brasil Foca na criação de valor na atração, seleção e retenção de novos talentos. Integrando habilidades técnicas, comportamentais e mentalidades nos programas de qualificação profissional, permitimos que os alunos desenvolvam rapidamente o domínio da profissão desejada.
+A Generation-Brasil foca na criação de valor na atração, seleção e retenção de novos talentos. Integrando habilidades técnicas, comportamentais e mentalidades nos programas de qualificação profissional, permitimos que os alunos desenvolvam rapidamente o domínio da profissão desejada.
 
 ## 📚 Conteúdo do curso
 
