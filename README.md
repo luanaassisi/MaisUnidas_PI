@@ -16,7 +16,7 @@ A Generation-Brasil Foca na criação de valor na atração, seleção e retenç
 * Git;
 * HTML;
 * CSS;
-* JavaScript;
+* TypeScript;
 * Angular.
 
 ### 🔑 Soft Skills
