@@ -14,10 +14,11 @@ A Generation-Brasil Foca na criação de valor na atração, seleção e retenç
 * SpringBoot;
 * MySql;
 * Git;
+* Angular;
 * HTML;
 * CSS;
-* TypeScript;
-* Angular.
+* TypeScript.
+
 
 ### 🔑 Soft Skills
 
